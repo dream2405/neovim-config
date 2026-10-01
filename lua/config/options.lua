@@ -1,3 +1,5 @@
+vim.g.clipboard = "osc52"
+
 local opt = vim.opt
 
 opt.number = true
